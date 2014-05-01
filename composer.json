@@ -2,7 +2,7 @@
     "name": "hisorange/traits",
     "description": "Useful PHP traits.",
     "keywords": ["traits", "php"],
-    "licence": "MIT",
+    "license": "MIT",
     "version": "1.0.0",
 
     "authors": [
